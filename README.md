@@ -1,4 +1,4 @@
-# Waste-Classification
+# Waste-Classification using Resnet50
 
 
 Waste management is a big problem in the world. Most of the wastes end up in landfills. The world generates at least 3.5 million tons of waste per day and this number is still increasing day by day that's why we need to aware about waste.
