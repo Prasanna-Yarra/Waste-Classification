@@ -16,3 +16,13 @@ APPROACH
 * Segregated into two classes (Organic and recyclable)
 * Reduce toxic waste ending in landfills
 * This will help to raise awareness for people to reduce and recycle waste
+
+
+# Data Source
+* In this project I have taken dataset from Kaggle.
+* Link to Dataset https://www.kaggle.com/datasets/techsash/waste-classification-data
+
+
+# Overview
+* Here I have trained dataset using Resnet50 CNN(Convolutional Neural Network) architecture
+* The testing data was classified with 87% accuracy
